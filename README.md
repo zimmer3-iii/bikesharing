@@ -38,17 +38,17 @@ This chart shows the amount of bike trips started each hour. The most active tim
 ![Start Times](https://github.com/zimmer3-iii/bikesharing/blob/main/Images/Start%20Times.png?raw=true)
 
 ## Summary
-	Overall I think this was poor data set to use for determining if a ride share program would work in Des Moines.
-	The data only really points to four helpful items:
-	- Gender does not play a role in the length of bike use, but there are 3 times as many male riders as female riders.
-		- This could be used in Des Moines to intially market to males and then focus on getting more female riders to expand.
-	- Most rides are only 5 minutes long and the vast majority of rides are under an hour long.
-		- This could be used in Des Moines be looking at average distances of commutes. Des Moines' riders may have further distances to travel and cost of trips may need to be adjusted based on this.
-	- Most rides are taken during the morning and afternoon work rushes during the week and more evenly disturbuted on the weekends.
-	- Subscribing customers are more likely to take multiple trips compared to non-subscribing customers.
+Overall, I think this was a poor data set to use for determining if a ride share program would work in Des Moines.
+The data only really points to four helpful items:
+- Gender does not play a role in the length of bike use, but there are 3 times as many male riders as female riders.
+	- This could be used in Des Moines to initially market to males and then focus on getting more female riders to expand.
+- Most rides are only 5 minutes long and the vast majority of rides are under an hour long.
+	- This could be used in Des Moines be looking at average distances of commutes. Des Moines' riders may have further distances to travel and cost of trips may need to be adjusted based on this.
+- Most rides are taken during the morning and afternoon work rushes during the week and more evenly distributed on the weekends.
+- Subscribing customers are more likely to take multiple trips compared to non-subscribing customers.
 	
-	Two visualizations that would be nice to have for further analysis would be:
-	- Number of rides and duration of rides versus temperature and/or percipitation.
-	- Age of customers versus number and duration of rides.
-	
+Two visualizations that would be nice to have for further analysis would be:
+- Number of rides and duration of rides versus temperature and/or precipitation.
+- Age of customers versus number and duration of rides.
+
 	
